@@ -1,6 +1,6 @@
 # Human resources project
 
-POWER BI reat time dashboard: https://www.novypro.com/project/hr-dashboard-78
+POWER BI real time dashboard: https://www.novypro.com/project/hr-dashboard-78
 
 
 ![HR_1](https://github.com/JoshuaKab/Human-Resources-Project/assets/135429439/d6b9ba65-a1e2-439f-800c-d74145664d73)
