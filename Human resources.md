@@ -1,5 +1,7 @@
 # Human resources project
 
+SQL Queries code: https://github.com/JoshuaKab/Human-Resources-Project/blob/main/HR_Analytics%20project.sql
+
 POWER BI real time dashboard: https://www.novypro.com/project/hr-dashboard-78
 
 
